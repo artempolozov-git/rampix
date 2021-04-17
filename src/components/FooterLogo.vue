@@ -26,7 +26,7 @@
     margin-right: 30px;
 }
 .logotype {
-    width: 200px;
+    width: 180px;
     margin-left: 7px;
     transition: opacity .2s ease-in;
 }
