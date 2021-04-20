@@ -202,10 +202,10 @@
 }
 @media screen and (max-width: 1024px) {
     .my-dots {
-        top: 370px;
+        top: 400px;
     }
     .review-button-down {
-        margin-top: 50px;
+        margin-top: 55px;
     }
 }
 @media screen and (max-width: 960px) {
@@ -229,29 +229,34 @@
         width: 150px;
         font-size: 14px;
     }
-    .my-dots {
-        top: 450px;
-    }
 }
 @media screen and (max-width: 520px) {
     .my-dots {
-        top: 550px;
+        top: 490px;
     }
 }
-@media screen and (max-width: 445px) {
+@media screen and (max-width: 480px) {
     .my-dots {
-        top: 570px;
+        top: 560px;
     }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 415px) {
     .title-review {
         font-size: 16px;
     }
-    .review-button-down {
-        margin-top: 10px;
-    }
     .my-dots {
-       display: none;
+        top: 610px;
+    }
+    .review-button-down {
+        margin-top: 35px;
+    }
+}
+@media screen and (max-width: 390px) {
+    .my-dots {
+        display: none;
+    }
+    .review-button-down {
+        margin-top: 5px;
     }
 }
 </style>
