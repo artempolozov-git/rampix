@@ -9,6 +9,9 @@
             <slick ref="slick" :options="slickOptions" data-aos="fade-up"
                    data-aos-anchor-placement="top-bottom">
                 <div>
+                    <verhotour-client></verhotour-client>
+                </div>
+                <div>
                     <second-client></second-client>
                 </div>
                 <div>
@@ -30,9 +33,11 @@
     import SecondClient from "@/reviews/SecondClient";
     import ThirdClient from "@/reviews/ThirdClient";
     import Slick from 'vue-slick';
+    import VerhotourClient from "@/reviews/VerhotourClient";
     export default {
         name: "Review",
         components: {
+            VerhotourClient,
             FirstClient,
             SecondClient,
             ThirdClient,
@@ -200,7 +205,7 @@
         top: 370px;
     }
     .review-button-down {
-        margin-top: 30px;
+        margin-top: 50px;
     }
 }
 @media screen and (max-width: 960px) {
@@ -210,7 +215,7 @@
 }
 @media screen and (max-width: 800px) {
     .my-dots {
-        top: 400px;
+        top: 450px;
     }
 }
 @media screen and (max-width: 650px) {
@@ -225,17 +230,17 @@
         font-size: 14px;
     }
     .my-dots {
-        top: 420px;
+        top: 450px;
     }
 }
 @media screen and (max-width: 520px) {
     .my-dots {
-        top: 470px;
+        top: 550px;
     }
 }
 @media screen and (max-width: 445px) {
     .my-dots {
-        top: 530px;
+        top: 570px;
     }
 }
 @media screen and (max-width: 400px) {

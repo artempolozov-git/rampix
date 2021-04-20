@@ -224,9 +224,4 @@ input::-webkit-inner-spin-button {
         font-size: 14px;
     }
 }
-@media screen and (max-width: 400px) {
-    .feedbackform {
-       display: none;
-    }
-}
 </style>
