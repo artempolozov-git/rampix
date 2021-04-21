@@ -237,24 +237,18 @@
 }
 @media screen and (max-width: 480px) {
     .my-dots {
-        top: 560px;
+        display: none;
     }
 }
 @media screen and (max-width: 415px) {
     .title-review {
         font-size: 16px;
     }
-    .my-dots {
-        top: 610px;
-    }
     .review-button-down {
         margin-top: 35px;
     }
 }
 @media screen and (max-width: 390px) {
-    .my-dots {
-        display: none;
-    }
     .review-button-down {
         margin-top: 5px;
     }
