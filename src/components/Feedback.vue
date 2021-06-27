@@ -60,7 +60,6 @@
 </template>
 
 <script>
-
     export default {
         components: {
         },
@@ -74,7 +73,7 @@
             toggleForm(){
                 var form = document.getElementById("feedback");
                 form.style.display = (form.style.display == 'none') ? 'block' : 'none'
-            }
+            },
         },
         mounted() {
 

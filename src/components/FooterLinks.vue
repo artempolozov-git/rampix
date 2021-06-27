@@ -37,6 +37,9 @@
             <div class="contacts">
                 <a target="_blank" class="messengers" href="https://www.behance.net/rampix-studio"><span>Behance</span></a>
             </div>
+            <div class="contacts">
+                <span style="color: rgba(165,165,165,0.71)">Руководитель студии: Артём Полозов</span>
+            </div>
         </div>
     </div>
 </template>

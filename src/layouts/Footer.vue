@@ -19,7 +19,7 @@
 <style scoped>
 .footer {
     display: flex;
-    padding: 40px 200px;
+    padding: 40px 150px;
     border-top: 1px solid #dbdbdb;
 }
 .footer-block {
