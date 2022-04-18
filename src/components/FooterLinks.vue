@@ -32,10 +32,10 @@
                 <a target="_blank" class="messengers" href="https://api.whatsapp.com/send?phone=+79191650972&text=&source=&data=&app_absent="><span>WhatsApp</span></a>
             </div>
             <div class="contacts">
-                <a target="_blank" class="messengers" href="https://t.me/rampixmanager"><span>Telegram</span></a>
+                <a target="_blank" class="messengers" href="https://t.me/artempolozovtg"><span>Telegram</span></a>
             </div>
             <div class="contacts">
-                <a target="_blank" class="messengers" href="https://www.behance.net/rampix-studio"><span>Behance</span></a>
+                <a target="_blank" class="messengers" href="https://www.behance.net/artempolozov-beh"><span>Behance</span></a>
             </div>
             <div class="contacts">
                 <span style="color: rgba(165,165,165,0.71)">Руководитель студии: Артём Полозов</span>

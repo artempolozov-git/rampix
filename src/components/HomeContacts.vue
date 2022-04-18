@@ -15,10 +15,10 @@
                     <a target="_blank" class="messengers" title="WhatsApp" href="https://api.whatsapp.com/send?phone=+79191650972&text=&source=&data=&app_absent="><img src="@/assets/icons/wa.svg"><span>WhatsApp</span></a>
                 </div>
                 <div class="contact">
-                    <a target="_blank" class="messengers" title="Telegram" href="http://t.me/rampixmanager"><img src="@/assets/icons/tg.svg"><span>Telegram</span></a>
+                    <a target="_blank" class="messengers" title="Telegram" href="https://t.me/artempolozovtg"><img src="@/assets/icons/tg.svg"><span>Telegram</span></a>
                 </div>
                 <div class="contact">
-                    <a target="_blank" class="messengers" title="Behance" href="https://www.behance.net/rampix-studio"><img src="@/assets/icons/behance.svg"><span>Behance</span></a>
+                    <a target="_blank" class="messengers" title="Behance" href="https://www.behance.net/artempolozov-beh"><img src="@/assets/icons/behance.svg"><span>Behance</span></a>
                 </div>
             </div>
             <home-feedback></home-feedback>

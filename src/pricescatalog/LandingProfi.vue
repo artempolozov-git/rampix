@@ -67,11 +67,11 @@
                     <span>Техническая поддержка</span>
                 </div>
             </div>
-            <div class="amount">
+            <!--<div class="amount">
                 <img src="@/assets/icons/flame.svg" title="самый частый выбор">
                 <div class="sum">от 28999₽</div>
                 <div class="strike">31999₽</div>
-            </div>
+            </div>!-->
             <div class="send-button" @click="toggleForm">
                 <span>Заказать</span>
             </div>
@@ -193,7 +193,7 @@
         justify-content: center;
         align-items: center;
         margin: auto;
-        margin-top: 15px;
+        margin-top: 40px;
         width: 160px;
         height: 45px;
         background-color: #1c89ea;

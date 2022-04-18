@@ -4,8 +4,8 @@
             <a target="_blank" class="icon" title="Email" href="mailto:info@rampix.ru"><img src="@/assets/icons/email.svg"><span>info@rampix.ru</span></a>
         </div>
         <a target="_blank" class="icon-messenger" title="WhatsApp" href="https://api.whatsapp.com/send?phone=+79191650972&text=&source=&data=&app_absent="><img src="@/assets/icons/wa.svg"></a>
-        <a target="_blank" class="icon-messenger" title="Telegram" href="https://t.me/rampixmanager"><img src="@/assets/icons/tg.svg"></a>
-        <a target="_blank" class="icon-messenger" title="Behance" href="https://www.behance.net/rampix-studio"><img src="@/assets/icons/behance.svg"></a>
+        <a target="_blank" class="icon-messenger" title="Telegram" href="https://t.me/artempolozovtg"><img src="@/assets/icons/tg.svg"></a>
+        <a target="_blank" class="icon-messenger" title="Behance" href="https://www.behance.net/artempolozov-beh"><img src="@/assets/icons/behance.svg"></a>
     </div>
 </template>
 

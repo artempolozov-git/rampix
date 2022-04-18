@@ -67,7 +67,7 @@
                     <span>Техническая поддержка</span>
                 </div>
             </div>
-            <div class="sum">от 15990₽</div>
+            <!--<div class="sum">от 15990₽</div>!-->
             <div class="send-button" @click="toggleForm">
                 <span>Заказать</span>
             </div>
@@ -173,7 +173,7 @@
         justify-content: center;
         align-items: center;
         margin: auto;
-        margin-top: 15px;
+        margin-top: 40px;
         width: 160px;
         height: 45px;
         background-color: #1c89ea;

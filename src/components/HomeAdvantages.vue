@@ -1,4 +1,5 @@
 <template>
+    <div>
     <div class="advantages">
         <div class="advantage">
             <div class="first-icon"><img src="@/assets/icons/horse.svg"></div>
@@ -12,6 +13,7 @@
             <div class="icon"><img src="@/assets/icons/man.svg"></div>
             <span class="icon-text">Работа напрямую<br>с исполнителем</span>
         </div>
+    </div>
     </div>
 </template>
 

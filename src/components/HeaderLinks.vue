@@ -1,8 +1,8 @@
 <template>
     <div class="links-container">
-        <div class="link-first" v-scroll-to="'#services-block'">Услуги</div>
-        <div class="link" v-scroll-to="'#portfolio-block'">Портфолио</div>
-        <div class="link" v-scroll-to="{el:'#prices-block', offset: -100}">Цены</div>
+        <!--<div class="link-first" v-scroll-to="'#services-block'">Услуги</div>!-->
+        <div class="link-first" v-scroll-to="'#portfolio-block'">Портфолио</div>
+        <div class="link" style="color: #057be9; font-weight: bold" v-scroll-to="{el:'#prices-block', offset: -50}">Заказать</div>
         <div class="link" v-scroll-to="'#review-block'">Отзывы</div>
         <div class="link" v-scroll-to="'#contacts-block'">Контакты</div>
     </div>
